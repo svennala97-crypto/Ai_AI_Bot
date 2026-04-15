@@ -1,5 +1,0 @@
-streamlit 
-groq 
-google-auth
-google-auth-oauthlib
-google-api-python-client
